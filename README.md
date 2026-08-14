@@ -57,7 +57,7 @@ packages.
 
 ## Related repositories
 
-- [`hydrodynamics_liquid_fragmentation_uva`](https://github.com/alessiomartini/hydrodynamics_liquid_fragmentation_uva)
+- [`liquid-fragmentation-report`](https://github.com/alessiomartini/liquid-fragmentation-report)
   — the written group report on liquid fragmentation, for the same course.
-- [`non-eq_stat_mech_2025_msc_course`](https://github.com/alessiomartini/non-eq_stat_mech_2025_msc_course)
+- [`msc-non-equilibrium-statistical-mechanics`](https://github.com/alessiomartini/msc-non-equilibrium-statistical-mechanics)
   — numerical coursework from Non-Equilibrium Statistical Mechanics, same MSc year.
