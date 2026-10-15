@@ -57,7 +57,7 @@ packages.
 
 ## Related repositories
 
-- [`liquid-fragmentation-report`](https://github.com/alessiomartini/liquid-fragmentation-report)
+- [`msc-liquid-fragmentation-report`](https://github.com/alessiomartini/msc-liquid-fragmentation-report)
   — the written group report on liquid fragmentation, for the same course.
 - [`msc-non-equilibrium-statistical-mechanics`](https://github.com/alessiomartini/msc-non-equilibrium-statistical-mechanics)
   — numerical coursework from Non-Equilibrium Statistical Mechanics, same MSc year.
